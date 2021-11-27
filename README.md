@@ -20,11 +20,9 @@
 </div>
 
 
-##
-
 <div align="center">
   <a href="https://github.com/thomasgocouto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=dark"/>
 </div>
 
 
