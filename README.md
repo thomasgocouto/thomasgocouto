@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/thomasgocouto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=default&hide_border=1&border_radius=0&custom_title=Linguagens Utilizadas:"/>
 </div>
 
 
