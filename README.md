@@ -25,6 +25,8 @@
   <a href="https://github.com/thomasgocouto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=graywhite&hide_border=1&border_radius=0&custom_title=Linguagens Utilizadas:"/>
 </div>
+  
+  ![Snake animation](https://github.com/thomasgocouto/thomasgocouto/blob/output/github-contribution-grid-snake.svg)
 
 
 
