@@ -17,7 +17,6 @@
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Metodologia Ágil-000000?style=for-the-badge&logo=logoColor=white">
 </div>
 
 
