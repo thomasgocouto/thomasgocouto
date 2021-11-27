@@ -22,11 +22,12 @@
 ##
 
 <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thomasgocouto&show_icons=true&theme=dark&hide_border=1&border_radius=0&include_all_commits=true&count_private=true&locale=pt-br"/>
   <a href="https://github.com/thomasgocouto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=graywhite&hide_border=1&border_radius=0&custom_title=Linguagens Utilizadas:"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgocouto&layout=compact&theme=dark&hide_border=1&border_radius=0&locale=pt-br"/>   
 </div>
   
-  ![Snake animation](https://github.com/thomasgocouto/thomasgocouto/blob/output/github-contribution-grid-snake.svg)
+  
 
 
 
